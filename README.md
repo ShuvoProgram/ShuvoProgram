@@ -30,8 +30,8 @@
 
 <p align="center"> <a href="https://github.com/ShuvoProgram/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvoprogram&row=1&column=6&theme=onedark" alt="ShuvoProgram" /></a> </p> <br>
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoprogram&show_icons=true&locale=en&layout=compact" alt="shuvoprogram" /></span>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoprogram&show_icons=true&locale=en&layout=compact" alt="shuvoprogram" /></p>
 
-<span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuvoprogram&show_icons=true&locale=en" alt="shuvoprogram" /></span>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shuvoprogram&show_icons=true&locale=en" alt="shuvoprogram" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoprogram&" alt="shuvoprogram" /></p>
