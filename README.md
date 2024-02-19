@@ -217,6 +217,21 @@
 
 </p>
 
+
+
+<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</b>
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Tomorrow%20is%20only%20found%20in%20the%20calendar%20of%20fools.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
 <h3 align="left">Trophy:</h3>
 
 <p align="center"> <a href="https://github.com/ShuvoProgram/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvoprogram&row=1&column=6&theme=onedark" alt="ShuvoProgram" /></a> </p> <br>
