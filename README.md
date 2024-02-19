@@ -280,7 +280,7 @@
     </td>
   </tr>
   <tr>
-     <td width="100%">
+     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Language's</strong></h3>
       <p align="center">
         <a href="https://github.com/shuvoprogram">
