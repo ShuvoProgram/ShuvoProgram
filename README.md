@@ -279,6 +279,16 @@
       </p>
     </td>
   </tr>
+  <tr>
+     <td width="100%">
+      <h3 align="center"><strong>Tᴏᴘ Language's</strong></h3>
+      <p align="center">
+        <a href="https://github.com/shuvoprogram">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoprogram&show_icons=true&locale=en&theme=nightowl" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 <br />
 
