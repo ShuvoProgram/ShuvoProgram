@@ -292,6 +292,6 @@
 </table>
 <br />
 
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</b>
 
 [![shuvo github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ShuvoProgram&custom_title=Shuvo%20Contribution%20Graph&theme=github-compact)](https://www.linkedin.com/in/shuvok/)
