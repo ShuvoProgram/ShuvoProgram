@@ -265,8 +265,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/shuvoprogram/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoprogram&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/shuvoprogram/Shuvo_Dev_Portfolio">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoprogram&repo=Shuvo_Dev_Portfolio&theme=nightowl&show_owner=true" alt="Shuvo_Dev_Portfolio" />
         </a>
       </p>
     </td>
