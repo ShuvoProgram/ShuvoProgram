@@ -1,6 +1,8 @@
 ![logo](https://github.com/ShuvoProgram/ShuvoProgram/blob/main/github-profile.png)
 <h1 align="center">Hi 👋, I'm Enthusiastic Programmer.</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
