@@ -284,7 +284,7 @@
       <h3 align="center"><strong>Tᴏᴘ Language's</strong></h3>
       <p align="center">
         <a href="https://github.com/shuvoprogram">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoprogram&show_icons=true&locale=en&theme=nightowl&layout=compact" alt="Top Languages" />
+          <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoprogram&show_icons=true&locale=en&theme=nightowl&layout=compact" alt="Top Languages" />
         </a>
       </p>
     </td>
