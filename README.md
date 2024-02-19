@@ -292,21 +292,6 @@
 </table>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoprogram&show_icons=true&locale=en&layout=compact" alt="shuvoprogram" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shuvoprogram&show_icons=true&locale=en" alt="shuvoprogram" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoprogram&" alt="shuvoprogram" /></p>
 
 
-
-
-
-
-
-
-
-
-
-
-[![Raziur's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ShuvoProgram&custom_title=Shuvo%20Contribution%20Graph&theme=github-compact)](https://www.linkedin.com/in/shuvok/)
+[![shuvo github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ShuvoProgram&custom_title=Shuvo%20Contribution%20Graph&theme=github-compact)](https://www.linkedin.com/in/shuvok/)
