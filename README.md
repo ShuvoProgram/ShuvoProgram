@@ -79,7 +79,7 @@
       <h3 align="center">EduSphere</h3>
         <br />
         <a target="_blank" href="https://edu-sphere-frontend.vercel.app/">
-            <img src="img/edu-tech.png" width="100%" alt="NFT App"/>
+            <img src="img/edu-tech.png" width="100%" alt="EduSphere"/>
         </a>
         <br />
         <p align="center">
@@ -91,21 +91,21 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A simple Smart contract in Solidity and a Web3 app that lets you Mint your own NFT collection.</p>
+        <p>EduSphere 🌐 revolutionizes learning! An interactive LMS fostering personalized education, collaboration, and skill mastery.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wave Portal</h3>
+      <h3 align="center">LensVista</h3>
         <br />
-      <a target="_blank" href="https://waveatrahul.netlify.app/">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
+      <a target="_blank" href="https://lens-vista.vercel.app/">
+            <img src="img/event.png" width="100%"  alt="lens-vista"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+  <a href="https://github.com/ShuvoProgram/LensVista_FrontEnd" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
+  <a href="https://lens-vista.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
