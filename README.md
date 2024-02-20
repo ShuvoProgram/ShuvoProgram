@@ -133,10 +133,10 @@
         <p>📦 InventoryPro: Simplify inventory control with this smart, user-friendly app. Streamline processes and optimize your stock management effortlessly.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">Furns</h3>
         <br />
         <a target="_blank" href="https://furns-app.netlify.app/">
-          <img src="img/Furns.png" width="100%" alt="NASA Astronomy Picture of the Day"/>
+          <img src="img/Furns.png" width="100%" alt="Furns"/>
         </a>
         <br />
         <p align="center">
