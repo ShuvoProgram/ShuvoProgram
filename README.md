@@ -130,25 +130,25 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p>📦 InventoryPro: Simplify inventory control with this smart, user-friendly app. Streamline processes and optimize your stock management effortlessly.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA Astronomy Picture of the Day</h3>
+      <h3 align="center"></h3>
         <br />
-        <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
-          <img src="images/apodbyrahul.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
+        <a target="_blank" href="https://furns-app.netlify.app/">
+          <img src="img/Furns.png" width="100%" alt="NASA Astronomy Picture of the Day"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
+  <a href="https://github.com/ShuvoProgram/Furns" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://apodbyrahul.netlify.app" target="_blank">
+  <a href="https://furns-app.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
+        <p>Furns 🛋️ is a sleek furniture shop app 📲 that streamlines the shopping experience. Browse, select, and furnish your space effortlessly. Manage orders and track deliveries seamlessly. Elevate your interior design journey with Furns!</p>
     </td>
   </tr>
   
