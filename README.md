@@ -18,7 +18,7 @@
    <img src="https://komarev.com/ghpvc/?username=ShuvoProgram&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ShuvoProgram" style="padding-right:20px;" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://komarev.com/ghpvc/?username=shuvoprogram&label=Profile%20views&color=0e75b6&style=flat">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br/>
 
