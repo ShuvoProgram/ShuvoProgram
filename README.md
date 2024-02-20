@@ -24,10 +24,6 @@
 
 
 
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvoprogram&label=Profile%20views&color=0e75b6&style=flat" alt="shuvoprogram" /> </p>
-
 - 🌱 I’m currently learning **Web Development by Programming Hero**
 
 - 👨‍💻 All of my projects are available at [https://shuvokhan.me/](https://shuvokhan.me/)
