@@ -4,6 +4,7 @@
   <a href="https://github.com/ShuvoProgram"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -75,18 +76,18 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
+      <h3 align="center">EduSphere</h3>
         <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
+        <a target="_blank" href="https://edu-sphere-frontend.vercel.app/">
             <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
+  <a href="https://github.com/ShuvoProgram/EduSphere_Frontend" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+  <a href="https://edu-sphere-frontend.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
