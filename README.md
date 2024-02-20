@@ -109,24 +109,24 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
+        <p>LensVista captures moments with finesse! 📸 Offering professional photography services for events, portraits, and special occasions. 🌟 Let us frame your memories beautifully.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio App</h3>
+      <h3 align="center">InventoryPro</h3>
       <br />
-        <a target="_blank" href="https://rahulkarda.netlify.app">
-          <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://inventory-pro-front-end.vercel.app/">
+          <img src="img/InventoryPro.png" width="100%" alt="InventoryPro"/>
         </a>
       <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
+  <a href="https://github.com/ShuvoProgram/InventoryPro_FrontEnd" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://rahulkarda.netlify.app" target="_blank">
+  <a href="https://inventory-pro-front-end.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
