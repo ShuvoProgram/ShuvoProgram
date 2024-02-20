@@ -1,4 +1,4 @@
-![logo](https://github.com/ShuvoProgram/ShuvoProgram/blob/main/github-profile.png)
+![logo](https://github.com/ShuvoProgram/ShuvoProgram/blob/main/img/github-profile.png)
 <h1 align="center">Hi 👋, I'm Enthusiastic Programmer.</h1>
 <p align="center">
   <a href="https://github.com/ShuvoProgram"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -79,7 +79,7 @@
       <h3 align="center">EduSphere</h3>
         <br />
         <a target="_blank" href="https://edu-sphere-frontend.vercel.app/">
-            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
+            <img src="img/edu-tech.png" width="100%" alt="NFT App"/>
         </a>
         <br />
         <p align="center">
