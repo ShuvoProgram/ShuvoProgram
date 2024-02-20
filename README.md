@@ -15,7 +15,7 @@
   <a href="https://github.com/ShuvoProgram?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ShuvoProgram?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ShuvoProgram/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/?logo=profile visitors&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <img src="https://komarev.com/ghpvc/?username=ShuvoProgram&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ShuvoProgram" style="padding-right:20px;" />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://komarev.com/ghpvc/?username=shuvoprogram&label=Profile%20views&color=0e75b6&style=flat">
