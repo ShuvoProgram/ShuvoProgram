@@ -1,7 +1,7 @@
 ![logo](https://github.com/ShuvoProgram/ShuvoProgram/blob/main/img/github-profile.png)
 <h1 align="center">Hi 👋, I'm Enthusiastic Programmer.</h1>
 <p align="center">
-  <a href="https://github.com/ShuvoProgram"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;SQA%20Engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/ShuvoProgram"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;SQA%20Engineer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
